@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -252,5 +251,4 @@
             </main>
         </div>
     </body>
->>>>>>> origin/main
 </html>
